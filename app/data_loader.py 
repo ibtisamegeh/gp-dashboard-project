@@ -1,0 +1,9 @@
+import pandas as pd
+
+df = pd.read_csv("data/gp_access.csv")
+
+print("Shape:", df.shape)
+
+print("\nFirst 30 columns:\n")
+for col in df.columns[:30]:
+    print(col)
