@@ -33,3 +33,10 @@ streamlit run app.py
 git clone https://github.com/ibtisamegeh/gp-dashboard-project.git
 cd gp-dashboard-project
 ```
+##  Live Dashboard
+
+You can view the deployed Streamlit app here:  
+ [https://ibtisamegeh-gp-dashboard-project-clean.streamlit.app](https://ibtisamegeh-gp-dashboard-project-clean.streamlit.app)
+
+*(Deployed after the official deadline for visibility and verification.)*
+
